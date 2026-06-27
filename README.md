@@ -16,5 +16,5 @@ and analyse who dominates the airspace, where traffic concentrates and what else
 | Type | Source | Expected Information |
 |------|--------|------------------|
 | **REST API** | https://openskynetwork.github.io/opensky-api/ | position, altitude, speed, callsign, operator country |
-| **Web scraping** | https://www.flugzeuginfo.net/table_airlinecodes_airline_dt.php | maps a flight's callsign (ICAO) to its airline (also for filtering out non-commercial flights) |
+| **Web scraping** | https://en.wikipedia.org/wiki/List_of_airline_codes | maps a flight's callsign (ICAO) to its airline (also for filtering out non-commercial flights) |
 | **File** | https://raw.githubusercontent.com/davidmegginson/ourairports-data/refs/heads/main/airports.csv | airport names, coordinates and countries |
