@@ -3,7 +3,7 @@
 ## The idea:
 **With this project, we want to answer questions about the European Commercial Airspace!**
 
-We collect live aircraft positions over Europe, keep only *commercial* flights,
+We collect live aircraft positions over Europe, keep only commercial flights,
 and analyse who dominates the airspace, where traffic concentrates and what else seems interesting to us.
 
 ## Some example questions we want to answer:
