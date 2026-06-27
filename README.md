@@ -9,7 +9,8 @@ and analyse who dominates the airspace, where traffic concentrates and what else
 ## Some example questions we want to answer:
 1. **Dominance** — which airlines, and which countries' carriers, fly the most over Europe?
 2. **Geography** — whose airspace is busiest, and where are the densest air corridors?
-3. **Routes** — what are the top departure/arrival airports and busiest routes?
+3. **Busiest airports** — which airports are busiest, inferred by matching low-altitude climbing/descending aircraft to their nearest airport (spatial join with the airports file)?
+4. **Routes** — what are the top departure/arrival airports and busiest routes?
 
 ## Data sources (as per Project Requirements):
 | Type | Source | Expected Information |
