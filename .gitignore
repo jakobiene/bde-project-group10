@@ -15,6 +15,9 @@ env/
 data/raw/
 *.parquet
 
+# Local-only dev utilities
+scripts/kafka_inspect.py
+
 # Secrets
 .env
 

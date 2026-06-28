@@ -1,0 +1,10 @@
+# Data acquisition
+requests            # REST API (OpenSky) + scraping fetch
+beautifulsoup4      # web scraping (Wikipedia airline codes)
+pandas              # data handling in notebooks / reference prep
+
+# Streaming
+kafka-python        # Kafka producer/consumer
+
+# Spark stage (added now so the env is complete; usually preinstalled on the cluster)
+pyspark
