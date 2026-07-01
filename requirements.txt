@@ -8,3 +8,8 @@ kafka-python        # Kafka producer/consumer
 
 # Spark stage (added now so the env is complete; usually preinstalled on the cluster)
 pyspark
+
+# Visualisation (notebook 05)
+matplotlib          # charts
+pyarrow             # read/write parquet from pandas
+reverse_geocoder    # map flight positions -> country (Q2 "whose airspace")
